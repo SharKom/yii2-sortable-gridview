@@ -1,5 +1,5 @@
 {
-	"name" : "richardfan1126/yii2-sortable-gridview",
+	"name" : "sharkom/yii2-sortable-gridview",
 	"description" : "Sortable GridView for Yii2",
 	"type" : "yii2-extension",
 	"license" : "MIT",
@@ -16,7 +16,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"richardfan\\sortable\\" : ""
+			"sharkom\\sortable\\" : ""
 		}
 	},
 	"keywords" : [
@@ -28,6 +28,5 @@
 	"require" : {
 		"yiisoft/yii2" : "*",
 		"yiisoft/yii2-jui" : "*",
-		"yiisoft/yii2-bootstrap" : "~2.0.0"
 	}
 }
