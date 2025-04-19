@@ -1,6 +1,6 @@
 <?php
 
-namespace richardfan\sortable;
+namespace sharkom\sortable;
 
 use Closure;
 
@@ -14,7 +14,7 @@ class SortableGridView extends GridView {
     /**
      * (required) The URL of related SortableAction
      *
-     * @see \richardfan1126\sortable\SortableAction
+     * @see \sharkom\sortable\SortableAction
      * @var string
      */
     public $sortUrl;
