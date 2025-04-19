@@ -10,9 +10,7 @@
 		}
 	],
 	"support" : {
-		"email" : "richardfan1126@gmail.com",
-		"issues" : "https://github.com/richardfan1126/yii2-sortable-gridview/issues",
-		"wiki" : "https://github.com/richardfan1126/yii2-sortable-gridview/wiki"
+		"email" : "dev@sharkom.net",
 	},
 	"autoload" : {
 		"psr-4" : {
